@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c5bec2b97fe7ae767308",
+    "revision": "81254a35946bc3ec24f3",
     "url": "/phone-store-react/static/css/main.505d545a.chunk.css"
   },
   {
-    "revision": "c5bec2b97fe7ae767308",
-    "url": "/phone-store-react/static/js/main.55518317.chunk.js"
+    "revision": "81254a35946bc3ec24f3",
+    "url": "/phone-store-react/static/js/main.4108a851.chunk.js"
   },
   {
     "revision": "b8a15b7019804a60945d",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/phone-store-react/static/media/logo.9f7e506d.svg"
   },
   {
-    "revision": "92836886259f546859ea0e1846688aea",
+    "revision": "0fcb4d5157a9435608ee2bc4c7a333bf",
     "url": "/phone-store-react/index.html"
   }
 ];
